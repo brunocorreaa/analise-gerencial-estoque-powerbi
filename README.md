@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em um dashboard interativo desenvolvido no **Power BI** para fornecer uma análise estratégica e granular do estoque de uma rede de varejo b2c.
+Este projeto consiste em um dashboard interativo desenvolvido no **Power BI** para fornecer uma análise estratégica e granular do estoque de uma rede de varejo.
 
 O objetivo central é monitorar a saúde do estoque através de KPIs-chave (como cobertura e giro), analisar a idade do estoque (aging) por setor específico e comparar a eficiência do giro de produtos novos versus antigos, permitindo decisões rápidas para otimização de capital de giro e prevenção de rupturas de estoque.
 
