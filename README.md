@@ -64,8 +64,5 @@ Esta visão apresenta KPIs claros e uma quebra granular da idade do estoque por 
 
 Esta visão foca no desempenho granulado por categoria ou setor de loja, permitindo identificar quais áreas específicas estão subdimensionadas.
 
-**Destaques:**
+**Destaque:**
 * **Análise de Margem e Giro:** Gráficos que mostram o custo de venda (azul escuro) versus o custo de estoque (azul claro) segmentado pelas mesmas faixas etárias de estoque.
-* **Status de Meta:** Gráfico de barras com formatação condicional.
-    * **Azul:** Setor operando dentro dos limites esperados.
-    * **Vermelho:** Setores com desvios superiores a 10% da meta de capacidade (superlotados ou subutilizados).
